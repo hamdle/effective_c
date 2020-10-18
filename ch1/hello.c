@@ -1,3 +1,4 @@
+// compile: `cc -o hello hello.c`
 // preprocessor directives
 #include <stdio.h> // declares puts()
 #include <stdlib.h> // declares EXIT_SUCCESS macro
